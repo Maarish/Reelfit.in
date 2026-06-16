@@ -109,11 +109,11 @@ flowchart TD
 
 | Landing | Browse Creators |
 | --- | --- |
-| ![Landing page](/LandingPage.png) | ![Browse creators](/reelfit6.png) |
+| ![Landing page](LandingPage.png) | ![Browse creators](reelfit6.png) |
 
 | Campaign Flow | Admin Dashboard |
 | --- | --- |
-| ![Campaign flow](/reelfit8.png) | ![Admin dashboard]/reelfit7.png) |
+| ![Campaign flow](reelfit8.png) | ![Admin dashboard](reelfit7.png) |
 
 ---
 
